@@ -27,8 +27,8 @@ A versatile and powerful **PHP** bot for downloading various content from popula
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/social-media-downloader-bot.git
-   cd social-media-downloader-bot
+   git clone https://github.com/mizegerd-tech/post-downloader.git
+   cd mizegerd-tech/post-downloader
    ```
 
 2. **Edit Configuration**:
